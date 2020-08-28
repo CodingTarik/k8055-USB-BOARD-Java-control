@@ -3,6 +3,7 @@ Project to control Velleman K8055 board with Java 64-Bit
 
 ## Table of Contents
   - [Setup](#setup)
+  - [Download](#Download)
   - [Stats](#stats)
   - [Clone](#clone)
   - [License](#License)
@@ -10,7 +11,7 @@ Project to control Velleman K8055 board with Java 64-Bit
 ![](doc/tutorial.gif)
 
 ## Download
-![Download](https://github.com/CodingTarik/k8055-USB-BOARD-Java-control/releases)
+[Download](https://github.com/CodingTarik/k8055-USB-BOARD-Java-control/releases)
 
 ## Stats
 ![GitHub All Releases](https://img.shields.io/github/downloads/CodingTarik/k8055-USB-BOARD-Java-control/total)
